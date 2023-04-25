@@ -9,7 +9,7 @@ _<h3>Este repositório contém quatro implementações em diferentes linguagens 
 calcular o número de laranjas restantes após algumas terem sido consumidas.</h3>_
 
 ## Propósito
-O propósito dos sistemas é demonstrar como diferentes linguagens de programação podem implementar a mesma lógica em soluções distintas. <br>
+O propósito do repositório é demonstrar como diferentes linguagens de programação podem implementar a mesma lógica em soluções distintas. <br>
 Os sistemas mostram como as variáveis são declaradas em cada linguagem, como é realizada a subtração para obter o número de laranjas restantes e como é exibido o resultado na saída.
 
 ## Diferenças de sintaxe
