@@ -33,3 +33,22 @@ Após a instalação do __TypeScript__, basta seguir os seguintes passos para ex
 O código em TypeScript utiliza variáveis para armazenar o número total de laranjas (totalLaranjas) e o número de laranjas comidas (laranjasComidas).<br> 
 Em seguida, é feita a subtração desses valores para obter o número de laranjas restantes (laranjasRestantes).<br>
 Por fim, utilizamos a função console.log() para exibir o resultado no console.
+
+<hr>
+
+Python
+Introdução
+O sistema em Python é uma implementação do algoritmo que resolve o problema matemático descrito a seguir:
+
+Suponhamos que eu tenha quatro laranjas, comi três, quantas laranjas sobraram?
+
+O objetivo deste sistema é calcular o número de laranjas que sobraram, após o consumo de três laranjas.
+
+Requisitos
+Para executar este sistema, é necessário ter o Python instalado em sua máquina.
+
+Como utilizar
+Basta seguir os seguintes passos para executar o sistema:
+
+Crie um arquivo com a extensão .py em seu editor de texto favorito.
+Copie o código abaixo e cole no arquivo criado:
