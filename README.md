@@ -37,19 +37,18 @@ Por fim, utilizamos a função console.log() para exibir o resultado no console.
 <hr>
 <hr>
 
-Python
-Introdução
+## Python
+### Introdução
 O sistema em Python é uma implementação do algoritmo que resolve o problema matemático descrito a seguir:
 
 Suponhamos que eu tenha quatro laranjas, comi três, quantas laranjas sobraram?
-
 O objetivo deste sistema é calcular o número de laranjas que sobraram, após o consumo de três laranjas.
 
-Requisitos
-Para executar este sistema, é necessário ter o Python instalado em sua máquina.
+## Requisitos
+Para executar este sistema, é necessário ter o __Python__ instalado em sua máquina.
 
-Como utilizar
+## Como utilizar
 Basta seguir os seguintes passos para executar o sistema:
 
-Crie um arquivo com a extensão .py em seu editor de texto favorito.
+Crie um arquivo com a extensão _.py_ em seu editor de texto favorito.
 Copie o código abaixo e cole no arquivo criado:
