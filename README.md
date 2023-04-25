@@ -12,7 +12,7 @@ O sistema em TypeScript é uma implementação do algoritmo que resolve o proble
 Suponhamos que eu tenha quatro laranjas, comi três, quantas laranjas sobraram?<br>
 O objetivo deste sistema é calcular o número de laranjas que sobraram, após o consumo de três laranjas.<br>
 
-# Requisitos
+## Requisitos
 Para executar este sistema, é necessário ter o __TypeScript__ instalado em sua máquina. <br>
 O __TypeScript__ pode ser instalado utilizando o npm __(Node Package Manager)__, que já é instalado junto com o __Node.js__.<br>
 
@@ -29,7 +29,7 @@ Após a instalação do __TypeScript__, basta seguir os seguintes passos para ex
     <li>O resultado será exibido no terminal.</li>
 </ol>
 
-# Como funciona
+## Como funciona
 O código em TypeScript utiliza variáveis para armazenar o número total de laranjas (totalLaranjas) e o número de laranjas comidas (laranjasComidas).<br> 
 Em seguida, é feita a subtração desses valores para obter o número de laranjas restantes (laranjasRestantes).<br>
 Por fim, utilizamos a função console.log() para exibir o resultado no console.
