@@ -7,10 +7,11 @@ Porém, realmente é possível que, ao analisar esse problema, a resposta seja _
 
 ### _Este repositório contém quatro implementações em diferentes linguagens de programação que resolvem o mesmo problema: calcular o número de laranjas restantes após algumas terem sido consumidas._
 
-Propósito
-O propósito dos sistemas é demonstrar como diferentes linguagens de programação podem implementar a mesma lógica em soluções distintas. Os sistemas mostram como as variáveis são declaradas em cada linguagem, como é realizada a subtração para obter o número de laranjas restantes e como é exibido o resultado na saída.
+## Propósito
+O propósito dos sistemas é demonstrar como diferentes linguagens de programação podem implementar a mesma lógica em soluções distintas. <br>
+Os sistemas mostram como as variáveis são declaradas em cada linguagem, como é realizada a subtração para obter o número de laranjas restantes e como é exibido o resultado na saída.
 
-Diferenças de sintaxe
+## Diferenças de sintaxe
 Cada implementação tem sua própria sintaxe e estilo de escrita, mas todas seguem a mesma lógica. Aqui estão algumas diferenças notáveis entre as linguagens:
 
 TypeScript: usa tipagem estática, usa o sinal de igual para atribuição, usa o ponto-e-vírgula para indicar o fim da instrução, usa o sinal de mais para concatenar strings, usa o console.log para exibir saída na tela.
