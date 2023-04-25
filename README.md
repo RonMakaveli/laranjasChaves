@@ -5,50 +5,17 @@
 Esse problema estava sendo debatido, porém a crítica por trás dela é valida, não devemos pular tarefas por achar faceis demais.<br>
 Porém, realmente é possível que, ao analisar esse problema, a resposta seja _"Eu sabia isso era com maçãs"_, devido a mudança de sintaxe, observe: 
 
-## TypeScript
-### Introdução
-O sistema em TypeScript é uma implementação do algoritmo que resolve o problema matemático descrito a seguir:
+### _Este repositório contém quatro implementações em diferentes linguagens de programação que resolvem o mesmo problema: calcular o número de laranjas restantes após algumas terem sido consumidas._
 
-Suponhamos que eu tenha quatro laranjas, comi três, quantas laranjas sobraram?<br>
-O objetivo deste sistema é calcular o número de laranjas que sobraram, após o consumo de três laranjas.<br>
+Propósito
+O propósito dos sistemas é demonstrar como diferentes linguagens de programação podem implementar a mesma lógica em soluções distintas. Os sistemas mostram como as variáveis são declaradas em cada linguagem, como é realizada a subtração para obter o número de laranjas restantes e como é exibido o resultado na saída.
 
-## Requisitos
-Para executar este sistema, é necessário ter o __TypeScript__ instalado em sua máquina. <br>
-O __TypeScript__ pode ser instalado utilizando o npm __(Node Package Manager)__, que já é instalado junto com o __Node.js__.<br>
+Diferenças de sintaxe
+Cada implementação tem sua própria sintaxe e estilo de escrita, mas todas seguem a mesma lógica. Aqui estão algumas diferenças notáveis entre as linguagens:
 
-## Como utilizar
-Após a instalação do __TypeScript__, basta seguir os seguintes passos para executar o sistema:
-
-<ol>
-    <li>Crie um arquivo com a extensão .ts em seu editor de texto favorito.</li>
-    <li>Copie o código e cole no arquivo criado:</li>
-    <li>Salve o arquivo.</li>
-    <li>Abra o terminal e navegue até a pasta onde o arquivo foi salvo.</li>
-    <li>Compile o código TypeScript digitando o comando tsc nomeDoArquivo.ts.</li>
-    <li>Execute o código TypeScript digitando o comando node nomeDoArquivo.js.</li>
-    <li>O resultado será exibido no terminal.</li>
-</ol>
-
-## Como funciona
-O código em TypeScript utiliza variáveis para armazenar o número total de laranjas (totalLaranjas) e o número de laranjas comidas (laranjasComidas).<br> 
-Em seguida, é feita a subtração desses valores para obter o número de laranjas restantes (laranjasRestantes).<br>
-Por fim, utilizamos a função console.log() para exibir o resultado no console.
-
-<hr>
-<hr>
-
-## Python
-### Introdução
-O sistema em Python é uma implementação do algoritmo que resolve o problema matemático descrito a seguir:
-
-Suponhamos que eu tenha quatro laranjas, comi três, quantas laranjas sobraram?
-O objetivo deste sistema é calcular o número de laranjas que sobraram, após o consumo de três laranjas.
-
-## Requisitos
-Para executar este sistema, é necessário ter o __Python__ instalado em sua máquina.
-
-## Como utilizar
-Basta seguir os seguintes passos para executar o sistema:
-
-Crie um arquivo com a extensão _.py_ em seu editor de texto favorito.
-Copie o código abaixo e cole no arquivo criado:
+TypeScript: usa tipagem estática, usa o sinal de igual para atribuição, usa o ponto-e-vírgula para indicar o fim da instrução, usa o sinal de mais para concatenar strings, usa o console.log para exibir saída na tela.
+Python: usa tipagem dinâmica, usa o sinal de igual para atribuição, usa dois pontos para indicar o fim da instrução, usa a vírgula para concatenar strings, usa a função print para exibir saída na tela.
+Java: usa tipagem estática, usa o sinal de igual para atribuição, usa o ponto-e-vírgula para indicar o fim da instrução, usa o sinal de mais para concatenar strings, usa o System.out.println para exibir saída na tela.
+C#: usa tipagem estática, usa o sinal de igual para atribuição, usa o ponto-e-vírgula para indicar o fim da instrução, usa o sinal de mais para concatenar strings, usa a função Console.WriteLine para exibir saída na tela.
+Contribuições
+Contribuições são bem-vindas para melhorar ou adicionar implementações em outras linguagens de programação. Basta criar um pull request com a implementação.
