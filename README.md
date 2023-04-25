@@ -15,9 +15,11 @@ Os sistemas mostram como as variáveis são declaradas em cada linguagem, como �
 ## Diferenças de sintaxe
 Cada implementação tem sua própria sintaxe e estilo de escrita, mas todas seguem a mesma lógica. Aqui estão algumas diferenças notáveis entre as linguagens:
 
-TypeScript: usa tipagem estática, usa o sinal de igual para atribuição, usa o ponto-e-vírgula para indicar o fim da instrução, usa o sinal de mais para concatenar strings, usa o console.log para exibir saída na tela.
-Python: usa tipagem dinâmica, usa o sinal de igual para atribuição, usa dois pontos para indicar o fim da instrução, usa a vírgula para concatenar strings, usa a função print para exibir saída na tela.
-Java: usa tipagem estática, usa o sinal de igual para atribuição, usa o ponto-e-vírgula para indicar o fim da instrução, usa o sinal de mais para concatenar strings, usa o System.out.println para exibir saída na tela.
-C#: usa tipagem estática, usa o sinal de igual para atribuição, usa o ponto-e-vírgula para indicar o fim da instrução, usa o sinal de mais para concatenar strings, usa a função Console.WriteLine para exibir saída na tela.
-Contribuições
-Contribuições são bem-vindas para melhorar ou adicionar implementações em outras linguagens de programação. Basta criar um pull request com a implementação.
+TypeScript: usa tipagem estática, usa o sinal de igual para atribuição, usa o ponto-e-vírgula para indicar o fim da instrução, usa o sinal de mais para concatenar strings, usa o console.log para exibir saída na tela.<br>
+Python: usa tipagem dinâmica, usa o sinal de igual para atribuição, usa dois pontos para indicar o fim da instrução, usa a vírgula para concatenar strings, usa a função print para exibir saída na tela.<br>
+Java: usa tipagem estática, usa o sinal de igual para atribuição, usa o ponto-e-vírgula para indicar o fim da instrução, usa o sinal de mais para concatenar strings, usa o System.out.println para exibir saída na tela.<br>
+C#: usa tipagem estática, usa o sinal de igual para atribuição, usa o ponto-e-vírgula para indicar o fim da instrução, usa o sinal de mais para concatenar strings, usa a função Console.WriteLine para exibir saída na tela.<br>
+
+###Contribuições
+Contribuições são bem-vindas para melhorar ou adicionar implementações em outras linguagens de programação.<br>
+Basta criar um pull request com a implementação.
