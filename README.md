@@ -35,6 +35,7 @@ Em seguida, é feita a subtração desses valores para obter o número de laranj
 Por fim, utilizamos a função console.log() para exibir o resultado no console.
 
 <hr>
+<hr>
 
 Python
 Introdução
