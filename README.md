@@ -23,6 +23,6 @@ Java: usa tipagem estática, usa o sinal de igual para atribuição, usa o ponto
 <br>
 C#: usa tipagem estática, usa o sinal de igual para atribuição, usa o ponto-e-vírgula para indicar o fim da instrução, usa o sinal de mais para concatenar strings, usa a função Console.WriteLine para exibir saída na tela.<br>
 
-###Contribuições
+### Contribuições
 Contribuições são bem-vindas para melhorar ou adicionar implementações em outras linguagens de programação.<br>
 Basta criar um pull request com a implementação.
